@@ -4,7 +4,7 @@
 <img src="https://github.com/ZeyadAdel/ZeyadAdel/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/ZeyadAdel" alt="Workspace"  width="40%"/><br> 
 
 <details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+<p><strong> <summary>  Defensive Security & Vibing to :   </summary> </strong></p>
 
 [![Spotify](https://spotify-readme.zeyadadel.vercel.app/api/spotify)](https://open.spotify.com/) <be>
 
@@ -17,30 +17,26 @@
 
 <hr></hr>
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Security%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat&logo=elastic&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
-```cpp
-// tools_I_use organized
+```python
+# security_tools_stack.py
 
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Python", "Javascript", "C++", "C" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Markdown" },
-    "Editors" : { "Vscode", "Neovim" },
-    "Platforms" : { "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma" }
-  };
-}
+class SOCAnalyst:
+    def __init__(self):
+        self.focus = "Defensive Security & Blue Team Operations"
+        self.siem_tools = ["Splunk", "IBM QRadar", "Elastic SIEM"]
+        self.analysis_tools = ["Wireshark", "Volatility", "CyberChef", "Hashcat"]
+        self.os_env = ["Kali Linux", "Ubuntu", "Windows Server"]
+        self.scripting = ["Python", "Bash"]
